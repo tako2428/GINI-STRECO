@@ -2,16 +2,19 @@ cff-version: 1.2.0
 message: "If you use this code or dataset, please cite the software repository and the two related articles below."
 title: "GINI-STRECO"
 type: software
+
 authors:
   - family-names: "Kohler"
     given-names: "Timothy A."
   - family-names: "Green"
     given-names: "Adam"
-   - family-names: "Ortman"
+  - family-names: "Ortman"
     given-names: "Scott G."
+
 repository-code: "https://github.com/tako2428/GINI-STRECO"
 url: "https://github.com/tako2428/GINI-STRECO"
 license: "MIT"
+
 keywords:
   - inequality
   - gini
@@ -27,18 +30,16 @@ preferred-citation:
   authors:
     - family-names: "Kohler"
       given-names: "Timothy A."
-   - family-names: "Green"
+    - family-names: "Green"
       given-names: "Adam"
     - family-names: "Ortman"
       given-names: "Scott G."
-   
   journal: "Structural Change and Economic Dynamics"
   year: 2026
   volume: 77
   start: 207
   end: 217
-  # doi: "10.1016/j.strueco.2026.01.007"          
- 
+  doi: "10.1016/j.strueco.2026.01.007"
 
 references:
   - type: article
@@ -46,11 +47,10 @@ references:
     authors:
       - family-names: "Kohler"
         given-names: "Timothy A."
-       - family-names: "Green"
+      - family-names: "Green"
         given-names: "Adam"
-       - family-names: "Ortman"
+      - family-names: "Ortman"
         given-names: "Scott G."
-    
     journal: "Structural Change and Economic Dynamics"
     year: 2026
     volume: 77
@@ -63,13 +63,13 @@ references:
     authors:
       - family-names: "Kohler"
         given-names: "Timothy A."
-       - family-names: "Bogaard"
+      - family-names: "Bogaard"
         given-names: "Amy"
-       - family-names: "Ortman"
+      - family-names: "Ortman"
         given-names: "Scott G."
     journal: "PNAS"
     year: 2025
     volume: 122
     issue: 16
-    start: e2401989122
-    doi: 10.1073/pnas.2401989122
+    start: "e2401989122"
+    doi: "10.1073/pnas.2401989122"
