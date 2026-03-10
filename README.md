@@ -1,6 +1,8 @@
 
 # GINI-STRECO
 
+[![DOI](https://zenodo.org/badge/1135328239.svg)](https://doi.org/10.5281/zenodo.18942481)
+
 Code and data to reproduce figures and models for:
 
 Kohler, Green and Ortman (2026).  
